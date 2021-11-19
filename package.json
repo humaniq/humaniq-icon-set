@@ -1,0 +1,11 @@
+{
+  "name": "humaniq-icons-set",
+  "version": "1.0.0",
+  "description": "- icons must be in a frame 512x512 px\r - plain svg\r - only one path (remove groups, multipath etc...)\r - Remove all fills and colors.\r - Remove all FAT line attributes.\r - Join all contours to a single outline.",
+  "main": "config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "egor.mikheev@humaniq.com",
+  "license": "MIT"
+}
