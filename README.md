@@ -23,7 +23,7 @@
   - Save as -> Plain SVG 
 
 ### Use fontello to transform svg images to font
-    - https://fontello.com/
+    - icomoon.io
 
 ### Resources
-- https://github.com/fontello/fontello/wiki/How-to-use-custom-images#importing-svg-images
+- https://www.reactnative.guide/12-svg-icons-using-react-native-vector-icons/12.1-creating-custom-iconset.html
