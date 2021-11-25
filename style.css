@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'humamiq';
   src:
-    url('fonts/humamiq.ttf?1lwtry') format('truetype'),
-    url('fonts/humamiq.woff?1lwtry') format('woff'),
-    url('fonts/humamiq.svg?1lwtry#humamiq') format('svg');
+    url('fonts/humamiq.ttf?7ab6ly') format('truetype'),
+    url('fonts/humamiq.woff?7ab6ly') format('woff'),
+    url('fonts/humamiq.svg?7ab6ly#humamiq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hm-switch:before {
+  content: "\e91a";
+}
+.hm-network:before {
+  content: "\e91b";
+}
+.hm-logout:before {
+  content: "\e91c";
+}
+.hm-key:before {
+  content: "\e91d";
+}
 .hm-circle-star:before {
   content: "\e918";
 }
