@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'humamiq';
+  font-family: 'humaniq';
   src:
-    url('fonts/humamiq.ttf?7ab6ly') format('truetype'),
-    url('fonts/humamiq.woff?7ab6ly') format('woff'),
-    url('fonts/humamiq.svg?7ab6ly#humamiq') format('svg');
+    url('fonts/humaniq.ttf?io75g6') format('truetype'),
+    url('fonts/humaniq.woff?io75g6') format('woff'),
+    url('fonts/humaniq.svg?io75g6#humaniq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -11,7 +11,7 @@
 
 [class^="hm-"], [class*=" hm-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'humamiq' !important;
+  font-family: 'humaniq' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
