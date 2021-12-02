@@ -1,7 +1,7 @@
 # Humaniq Icons set
 
 ### List of icons
-[see here](https://humaniq.github.io/demo.html)
+[see here](https://humaniq.github.io/humaniq-icon-set/demo.html)
 
 ### Demands
 - icons must be in a frame 512x512 px
