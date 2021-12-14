@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'humaniq';
   src:
-    url('fonts/humaniq.ttf?io75g6') format('truetype'),
-    url('fonts/humaniq.woff?io75g6') format('woff'),
-    url('fonts/humaniq.svg?io75g6#humaniq') format('svg');
+    url('fonts/humaniq.ttf?p0285u') format('truetype'),
+    url('fonts/humaniq.woff?p0285u') format('woff'),
+    url('fonts/humaniq.svg?p0285u#humaniq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hm-wallet-alt:before {
+  content: "\e91e";
+}
+.hm-squared-plus:before {
+  content: "\e91f";
+}
+.hm-bookmarks:before {
+  content: "\e920";
+}
 .hm-switch:before {
   content: "\e91a";
 }
