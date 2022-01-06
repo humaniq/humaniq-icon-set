@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'humaniq';
   src:
-    url('fonts/humaniq.ttf?ljdxj0') format('truetype'),
-    url('fonts/humaniq.woff?ljdxj0') format('woff'),
-    url('fonts/humaniq.svg?ljdxj0#humaniq') format('svg');
+    url('fonts/humaniq.ttf?iqm2a6') format('truetype'),
+    url('fonts/humaniq.woff?iqm2a6') format('woff'),
+    url('fonts/humaniq.svg?iqm2a6#humaniq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hm-fingerprint:before {
+  content: "\e901";
+}
 .hm-double-arrows:before {
   content: "\e90c";
 }
