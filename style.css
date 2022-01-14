@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'humaniq';
   src:
-    url('fonts/humaniq.ttf?iqm2a6') format('truetype'),
-    url('fonts/humaniq.woff?iqm2a6') format('woff'),
-    url('fonts/humaniq.svg?iqm2a6#humaniq') format('svg');
+    url('fonts/humaniq.ttf?esy48b') format('truetype'),
+    url('fonts/humaniq.woff?esy48b') format('woff'),
+    url('fonts/humaniq.svg?esy48b#humaniq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -119,6 +119,9 @@
 }
 .hm-home:before {
   content: "\e910";
+}
+.hm-lock-fill:before {
+  content: "\e925";
 }
 .hm-lock:before {
   content: "\e911";
