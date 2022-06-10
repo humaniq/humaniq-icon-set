@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'humaniq';
   src:
-    url('fonts/humaniq.ttf?nin63y') format('truetype'),
-    url('fonts/humaniq.woff?nin63y') format('woff'),
-    url('fonts/humaniq.svg?nin63y#humaniq') format('svg');
+    url('fonts/humaniq.ttf?e18sn2') format('truetype'),
+    url('fonts/humaniq.woff?e18sn2') format('woff'),
+    url('fonts/humaniq.svg?e18sn2#humaniq') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hm-preferences:before {
+  content: "\e92a";
+}
 .hm-chart:before {
   content: "\e929";
 }
